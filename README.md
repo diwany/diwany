@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mohamed Diwany 👋
+# Mohamed Diwany
 
 ### AI Engineer · Full Stack Developer · Computer Engineering Student
 
