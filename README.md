@@ -128,12 +128,7 @@ A modern, animated, and responsive portfolio website built to showcase my work, 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=diwany&show_icons=true&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&icon_color=dc2626&text_color=f5f5f5" width="48%" alt="GitHub Stats"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=diwany&theme=radical&hide_border=true&background=0A0A0A&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=F5F5F5&dates=A3A3A3&currStreakNum=F5F5F5&sideNums=F5F5F5" width="48%" alt="GitHub Streak"/>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diwany&layout=compact&theme=radical&hide_border=true&bg_color=0a0a0a&title_color=dc2626&text_color=f5f5f5" width="40%" alt="Top Languages"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=diwany&theme=radical&hide_border=true&background=0A0A0A&ring=DC2626&fire=DC2626&currStreakLabel=DC2626&sideLabels=F5F5F5&dates=A3A3A3&currStreakNum=F5F5F5&sideNums=F5F5F5" width="60%" alt="GitHub Streak"/>
 
 </div>
 
