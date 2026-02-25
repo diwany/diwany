@@ -136,11 +136,11 @@ A modern, animated, and responsive portfolio website built to showcase my work, 
 
 ## 🏆 What I Do
 
-- 🤖 **AI Engineering** — Building intelligent systems with NLP, computer vision, and modern AI frameworks
-- 💻 **Full Stack Development** — Creating end-to-end web applications with modern frontend and backend technologies
-- 🎓 **Computer Engineering** — Pursuing a degree in Computer Engineering, combining theory with hands-on practice
-- 💡 **Problem Solving** — Translating complex problems into elegant, scalable software solutions
-- 🚀 **Freelance Development** — Delivering production-ready solutions for clients worldwide
+- **AI Engineering** — Building intelligent systems with NLP, computer vision, and modern AI frameworks
+- **Full Stack Development** — Creating end-to-end web applications with modern frontend and backend technologies
+- **Computer Engineering** — Pursuing a degree in Computer Engineering, combining theory with hands-on practice
+- **Problem Solving** — Translating complex problems into elegant, scalable software solutions
+- **Freelance Development** — Delivering production-ready solutions for clients worldwide
 
 ---
 
